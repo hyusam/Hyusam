@@ -11,7 +11,7 @@ Recent Data Science and AI/ML graduate with a strong foundation in building pred
 
 ## 🛠️ Tech Stack
 
-### 🤖 Data Science & AI/ML
+### Data Science & AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white)
