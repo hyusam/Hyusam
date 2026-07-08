@@ -1,4 +1,4 @@
-# Hey 👋 What's Up?
+# Hey 👋
 
 Recent Data Science and AI/ML graduate with a strong foundation in building predictive models, data pipelines, and advanced ML workflows. Combining technical expertise in machine learning with 4 years of professional experience as a 3D Animator to bring a unique perspective to data storytelling and advanced AI applications. Currently focusing on driving business value through robust Data Science and Machine Learning engineering, while scaling technical capabilities toward next-generation AI solutions.
 
@@ -21,12 +21,12 @@ Recent Data Science and AI/ML graduate with a strong foundation in building pred
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🎨 3D Animation & Tools
+### 3D Animation & Tools
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-343434?style=for-the-badge&logo=stabilityai&logoColor=white)
 
-### 🗄️ Databases & Deployment
+### Databases & Deployment
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,9 +38,4 @@ Recent Data Science and AI/ML graduate with a strong foundation in building pred
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyusam&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyusam&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyusam&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
